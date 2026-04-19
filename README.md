@@ -1,5 +1,30 @@
-# 💫 About Me:
-# 👋 Hi, I'm Harsh Rai<br><br>🚀 Full Stack Developer | ⚡ Electrical Engineering Student | 🤖 Tech Enthusiast <br><br>I’m currently working on Full Stack Web Development projects <br><br>🌱 I’m currently learning <br>Advanced React and Next.js, <br>Backend Development (Node.js, Express),<br> MongoDB and Database Design,<br>and Python for Full-stack AI projects<br><br>💬 Ask me about <br>JavaScript, <br>React, <br>node,<br>MERN Stack Projects,<br>Scalable Web Apps,<br>Database Design and APIs,<br>Web Development,<br> and basic AI concepts
+## 💫 About Me
+
+### 👋 Hi, I'm Harsh Rai
+
+🚀 Full Stack Developer | ⚡ Electrical Engineering Student | 🤖 Tech Enthusiast  
+
+I’m currently working on Full Stack Web Development projects  
+
+---
+
+### 🌱 Currently Learning
+- Advanced React and Next.js  
+- Backend Development (Node.js, Express)  
+- MongoDB and Database Design  
+- Python for Full-stack AI projects  
+
+---
+
+### 💬 Ask Me About
+- JavaScript  
+- React  
+- Node.js  
+- MERN Stack Projects  
+- Scalable Web Applications  
+- Database Design & APIs  
+- Web Development  
+- Basic AI Concepts  
 
 
 ## 🌐 Socials:
