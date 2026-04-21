@@ -4,7 +4,7 @@
 
 🚀 Full Stack Developer | 🤖 Tech Enthusiast  
 
-I’m currently working on Full Stack Web Development projects  
+Building scalable full-stack products and AI systems that solve real-world problems — fast, secure, and production-ready.
 
 
 ### 🌐 Portfolio  
